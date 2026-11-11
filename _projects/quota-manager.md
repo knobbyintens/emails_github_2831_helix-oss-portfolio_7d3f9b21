@@ -8,7 +8,7 @@ status: internal
 visibility: private
 repository_url: ""
 license: ""
-hold_reason: "license_not_allowed"
+hold_reason: ""
 ---
 
 Central quota enforcement service for internal and external API consumers.

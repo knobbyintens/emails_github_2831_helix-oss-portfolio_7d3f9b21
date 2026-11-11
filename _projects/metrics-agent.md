@@ -8,7 +8,7 @@ status: internal
 visibility: private
 repository_url: ""
 license: ""
-hold_reason: "unstable_release"
+hold_reason: ""
 ---
 
 Lightweight sidecar that scrapes host metrics and forwards them to Helix Metrics.
