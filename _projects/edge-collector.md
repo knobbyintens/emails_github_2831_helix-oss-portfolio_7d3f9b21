@@ -8,7 +8,7 @@ status: internal
 visibility: private
 repository_url: ""
 license: ""
-hold_reason: ""
+hold_reason: "missing_license_file"
 ---
 
 High-throughput collector for regional edge ingestion with backpressure-aware buffering.
