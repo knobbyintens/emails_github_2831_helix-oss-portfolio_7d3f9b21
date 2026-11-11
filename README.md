@@ -1,2 +1,3 @@
-# emails_github_2831_helix-oss-portfolio_7d3f9b21
-Public portfolio site for Helix Systems open-source projects
+# Helix Open Source Portfolio
+
+Public portfolio site for Helix Systems open-source projects. Every candidate project has one page under `_projects/`. The page metadata is rendered by the static site generator; keep the front matter valid YAML.
