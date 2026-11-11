@@ -8,7 +8,7 @@ status: internal
 visibility: private
 repository_url: ""
 license: ""
-hold_reason: "version_below_1_0"
+hold_reason: ""
 ---
 
 Schema-driven validator for configuration files and feature flags used across Helix services.
