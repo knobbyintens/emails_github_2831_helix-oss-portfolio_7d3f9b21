@@ -8,7 +8,7 @@ status: internal
 visibility: private
 repository_url: ""
 license: ""
-hold_reason: ""
+hold_reason: "security_review_failed"
 ---
 
 Embedding store with approximate nearest-neighbour search and hybrid metadata filtering.
